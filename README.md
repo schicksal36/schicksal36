@@ -7,12 +7,22 @@
 새로운 기술을 배우고 적용해 꾸준히 성장하고 있습니다. <br/>
 
 #### 🎓 Python과 Django를 중심으로 학습하며, 데이터베이스·서버 아키텍처와 AWS 클라우드를 함께 공부하고 있습니다. <br/>
-
+  
 #### 코드로 이어지는 만남  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/schicksal36)
 [![Blog](https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=white)](https://blog.naver.com/schicksal36)
 
-<br/><br/>
+#### 💼 포트폴리오  
+[Server의 DB(Database) 이관에 대한 포트폴리오](https://github.com/schicksal36/schicksal36/blob/main/portfolio.pdf)
+
+---
+
+## 📦 저장소 (Repositories)
+
+- [ozcding_shool_be_15end](https://github.com/schicksal36/ozcding_shool_be_15end) — 백엔드 실습 및 API 서버 구축 프로젝트
+- [JH-Vlog](https://github.com/schicksal36/JH-Vlog) — 개인 블로그 및 영상 관리 웹 애플리케이션
+
+---
 
 ## 🧱 Tech Stack
 
@@ -40,8 +50,7 @@
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=fedora&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white)
 
-
-<br/><br/>
+---
 
 ## 🤔 Github Stats
 [![Jeonghun's GitHub stats](https://github-readme-stats.vercel.app/api?username=schicksal36&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  

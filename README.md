@@ -20,7 +20,7 @@
 ## 📦 저장소 (Repositories)
 
 - [ozcding_shool_be_15end](https://github.com/schicksal36/ozcding_shool_be_15end) — 백엔드 실습 및 API 서버 구축 프로젝트
-- [JH-Vlog](https://github.com/schicksal36/JH-Vlog) — 개인 블로그 및 영상 관리 웹 애플리케이션
+- [JH-Vlog](https://github.com/schicksal36/JH-Vlog) — IT 관련 프로잭트
 
 ---
 

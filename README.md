@@ -12,8 +12,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/schicksal36)
 [![Blog](https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=white)](https://blog.naver.com/schicksal36)
 
-#### 💼 포트폴리오  
-[Server의 DB(Database) 이관에 대한 포트폴리오](https://github.com/schicksal36/schicksal36/blob/main/portfolio.pdf)
+#### 💼 포트폴리오
+[📄 Server DB Migration Portfolio](./portfolio.pdf)
+
+> Windows Server → Linux(Fedora) 환경으로 MySQL DB를 이관한 프로젝트를 기록한 기술 포트폴리오
 
 ---
 
